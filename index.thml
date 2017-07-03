@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prueba de una pagina</title>
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto:100" rel="stylesheet">
+    <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <div class="image">
+  </div>
+    <h1>Come rico, facil y sano!</h1>
+
+    <h2>Por Valentina Feres</h2>
+    <h3>Hay muchas excusas que utilizamos cuando llega la hora de cocinar. No tengo tiempo o  no se cocinar son las frases mas frecuentes que decimos para alejarnos de la cocina. Yo era una de las tantas que usaban esas palabras para evadir cualquier tipo de contacto con esa parte de la casa, pero con estas sencillas y saludables recetas que veran a continuacion, lo unico que querran es pasar mas tiempo jugando a ser Master Chef!</h3>
+    <h4>Panqueques integrales con frutillas </h4>
+    <ul>
+      <li>Harina integral</li>
+      <li>Huevo</li>
+      <li>Frutillas</li>
+      <li>Manjar / dulce de leche light (sin gluten)</li>
+      <li>Leche descremada</li>
+      <li>Esencia de vainilla</li>
+      <li>Sal y azucar</li>
+    </ul>
+    <ol>
+      <li>Mezclar   taza de harina integral, un huevo, y una taza de leche, junto con una cucharada de esencia de vainilla, una pizca de sal y azcar a gusto. Homogenizar la  mezcla.</li>
+      <li>Calentar un sarten aceitado y vertir una capa muy fina de la mezcla por 1 minuto y luego dar vuelta por otro minuto. Repetir con la cantidad que estimes ingerir.</li>
+      <li>Rellenar los panqueques con manjar light y frutillas picadas.</li>
+    </ol>
+
+  <a href="https://static.wixstatic.com/media/a1fbba_36e8839a689f48bd8f7aeadf18d24a5d.jpg/v1/fill/w_630,h_500,al_c,q_80,usm_0.66_1.00_0.01/a1fbba_36e8839a689f48bd8f7aeadf18d24a5d.webp"target="_blank">
+  <img     src="https://static.wixstatic.com/media/a1fbba_36e8839a689f48bd8f7aeadf18d24a5d.jpg/v1/fill/w_630,h_500,al_c,q_80,usm_0.66_1.00_0.01/a1fbba_36e8839a689f48bd8f7aeadf18d24a5d.webp"alt="Panqueques"/></a>
+  
+   <a href="https://s-media-cache-ak0.pinimg.com/564x/1e/a4/0d/1ea40d45d977300eb138dd8a4bad3bec.jpg"target="_blank">
+  <img     
+src="https://s-media-cache-ak0.pinimg.com/564x/1e/a4/0d/1ea40d45d977300eb138dd8a4bad3bec.jpg"alt="frase"/></a>
+ 
+ 
+    
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+</body>
+</html>
+
